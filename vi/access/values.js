@@ -3,9 +3,9 @@ var isRightsEnabled = true; // Права
 var isCovidCertificateEnabled = true; // COVID-сертификат
 
 // Общее
-var birthdate = "28.08.1984"; // Дата рождения
-var fullname = "Краштан Марія Анатоліївна" // ФИО
-var name = "Марія" // Имя
+var birthdate = "28.08.1975"; // Дата рождения
+var fullname = "Іванова Вікторія Анатоліївна" // ФИО
+var name = "Вікторія" // Имя
 
 // Паспорт
 var passport_id = "739275497" // Номер паспорта
